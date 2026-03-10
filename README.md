@@ -11,8 +11,6 @@
 
 Substack is a publishing platform that allows writers to send digital newsletters directly to their audience and monetize through subscriptions.
 
----
-
 ## Contents
 
 - [Getting Started](#getting-started)
@@ -27,15 +25,11 @@ Substack is a publishing platform that allows writers to send digital newsletter
 - [Substack Alternatives](#substack-alternatives)
 - [Related Lists](#related-lists)
 
----
-
 ## Getting Started
 
 - [Substack Help Center](https://substack.com/help) – Official documentation and support.
 - [Start a Substack Newsletter](https://substack.com/) – Launch your first issue.
 - [Substack Guide](https://on.substack.com/p/the-substack-guide) – An official guide from the Substack team.
-
----
 
 ## Writing & Publishing
 
@@ -43,23 +37,17 @@ Substack is a publishing platform that allows writers to send digital newsletter
 - [Drafts, Scheduling, and Publishing](https://on.substack.com/p/schedule-your-posts) – Tips on scheduling and managing content.
 - [Substack Notes](https://substack.com/notes) – Use Notes to share quick updates and connect with readers.
 
----
-
 ## Design & Customization
 
 - [Customizing Your Substack](https://on.substack.com/p/customize-your-substack-design) – Fonts, colors, layout, logo, etc.
 - [Custom Domain Setup](https://on.substack.com/p/how-to-set-up-a-custom-domain-on) – Brand your newsletter with your own domain.
 - [Design Inspiration](https://typefully.com/substack-inspiration) – Examples of clean and professional Substack layouts.
 
----
-
 ## Monetization
 
 - [Enable Paid Subscriptions](https://on.substack.com/p/turn-on-paid-subscriptions) – How to activate paid plans.
 - [Substack Revenue Calculator](https://newslettercrew.com/newsletter-revenue-calculator) – Estimate your potential income.
 - [Managing Free vs Paid Content](https://on.substack.com/p/balancing-free-and-paid-content) – Find the right balance for your audience.
-
----
 
 ## Growth & Marketing
 
@@ -68,14 +56,10 @@ Substack is a publishing platform that allows writers to send digital newsletter
 - [Substack Boost](https://substack.com/boost) – A recommendation-based discovery tool.
 - [Lead Magnets for Substack](https://convertkit.com/substack-lead-magnet) – Using freebies to drive signups.
 
----
-
 ## Analytics
 
 - [Substack Stats Dashboard](https://on.substack.com/p/understanding-your-substack-stats) – Understand opens, clicks, and growth.
 - [Google Analytics Integration](https://on.substack.com/p/how-to-add-google-analytics-to) – Add Google Analytics to your custom domain.
-
----
 
 ## Tools & Integrations
 
@@ -84,15 +68,11 @@ Substack is a publishing platform that allows writers to send digital newsletter
 - [ConvertKit to Substack](https://blog.convertkit.com/substack-alternative/) – Migrate from ConvertKit to Substack.
 - [Typefully](https://typefully.com/) – Compose Twitter threads that link back to your newsletter.
 
----
-
 ## Communities & Directories
 
 - [Newsletter Stack](https://www.newsletterstack.com/) – Discover and share newsletters.
 - [Inbox Reads](https://www.inboxreads.co/) – Find curated newsletters by category.
 - [Stacked Marketer Community](https://www.stackedmarketer.com/) – A marketing-focused Substack community.
-
----
 
 ## Guides & Tutorials
 
@@ -100,16 +80,12 @@ Substack is a publishing platform that allows writers to send digital newsletter
 - [How to Monetize on Substack](https://www.cnbc.com/2021/06/17/how-to-make-money-on-substack.html)
 - [Newsletter Growth Tips (Julian Shapiro)](https://twitter.com/Julian/status/1280542497358721025)
 
----
-
 ## Substack Alternatives
 
 - [Ghost](https://ghost.org/) – Open-source publishing platform.
 - [Beehiiv](https://www.beehiiv.com/) – Newsletter platform with advanced analytics.
 - [Revue](https://www.getrevue.co/) – (Now sunset by Twitter/X).
 - [Buttondown](https://buttondown.email/) – A minimalist email newsletter tool.
-
----
 
 ## Related Lists
 
@@ -120,7 +96,9 @@ Substack is a publishing platform that allows writers to send digital newsletter
   
 ## Contribute
 
-Contributions are welcome!
+Contributions are welcome. Please ensure your submission fully follows the requirements outlined in [`CONTRIBUTING.md`](CONTRIBUTING.md), including formatting, scope alignment, and category placement.
+
+Pull requests that do not adhere to the contribution guidelines may be closed.
 
 ## License
 
