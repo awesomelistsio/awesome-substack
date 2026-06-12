@@ -58,6 +58,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Cross-Promotions with Other Writers](https://on.substack.com/p/how-to-cross-promote-your-newsletter) – Collaborate with other newsletters.
 - [Substack Boost](https://substack.com/boost) – A recommendation-based discovery tool.
 - [Lead Magnets for Substack](https://convertkit.com/substack-lead-magnet) – Using freebies to drive signups.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Analytics
 
